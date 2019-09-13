@@ -1,2 +1,1 @@
-# DeepEnd
-Diving into the Deep End of the Pool - a fast, accessible introduction to Machine Learning
+# Deep Learning Workshop - A Practical Hands-on Introduction to Deep Learning
